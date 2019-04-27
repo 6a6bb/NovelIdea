@@ -1,0 +1,35 @@
+@charset "UTF-8";
+@charset "utf-8";
+/* CSS Document */
+.tabtop13 {
+	margin-top: 12px;
+	text-align:center;
+}
+.tabtop13 td{
+	background-color:#ffffff;
+	height:25px;
+	line-height:150%;
+	width:10%;
+}
+.font-center{ text-align:center}
+.btbg{background:#e9faff !important;}
+.btbg1{background:#f2fbfe !important;}
+.btbg2{background:#f3f3f3 !important;}
+.biaoti{
+	font-family: 微软雅黑;
+	font-size: 26px;
+	font-weight: bold;
+	border-bottom:1px dashed #CCCCCC;
+	color: #255e95;
+	height:60px;
+	text-align:center;
+}
+.titfont {
+	
+	font-family: 微软雅黑;
+	font-size: 16px;
+	font-weight: bold;
+	color: #255e95;
+	background: url(../images/ico3.gif) no-repeat 15px center;
+	background-color:#e9faff;
+}

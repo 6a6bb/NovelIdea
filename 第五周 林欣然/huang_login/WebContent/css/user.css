@@ -1,0 +1,57 @@
+@charset "UTF-8";
+body, ul, li {
+	margin: 0;
+	padding: 0;
+	background-image: url("modifpsw.jpg");
+}
+
+li {
+	list-style: none;
+}
+
+.main {
+	height: 613px;
+	background: url("/huang_login/image/modifpsw.jpg") no-repeat 0 -150px;
+}
+
+.main-con {
+	height: 100%;
+	margin: 0 20%;
+	position: relative;
+}
+
+ul {
+	top: 150px;
+	position: absolute;
+}
+
+ul li {
+	text-align: center;
+	width: 150px;
+	height: 50px;
+	font: 18px/50px 微软雅黑;
+	color: #72F4FD;
+	border: #fff 1px solid;
+}
+
+ul li:hover {
+	color: #fff;
+	border: #72F4FD 1px solid;
+}
+
+.login {
+	height: 50px;
+	width: 150px;
+	color: #72F4FD;
+	font: 18px/50px 微软雅黑;
+	text-align: center;
+	position: absolute;
+	top: 20px;
+	right: 0px;
+	border: #fff 1px solid;
+}
+
+.login:hover {
+	color: #fff;
+	border: #72F4FD 1px solid;
+}
